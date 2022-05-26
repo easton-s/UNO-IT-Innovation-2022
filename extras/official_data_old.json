@@ -1,0 +1,6742 @@
+{
+    "Agriculture, forestry, fishing & hunting": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 2291
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 91.9
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.2
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.899999999999994
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 25.5
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 68.73
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 247.428
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17.1825
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 22.910000000000004
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 82.476
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5.727500000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 137.46
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 494.856
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 34.365
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 274.92
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 989.712
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 68.73
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 45.82000000000001
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 164.952
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11.455000000000002
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 53
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 47
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 341.8172
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1230.54192
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 85.4543
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 116.38280000000003
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 418.9780800000001
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 29.095700000000008
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 37856
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.8
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 47.3
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 20.8
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.2
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.2
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.1
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 18
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 458.20000000000005
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1649.52
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 114.55000000000001
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2222.2700000000004
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 20.618556701030926
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 74.22680412371132
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 5.154639175257731
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.026342062547853505
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Mining, quarrying, & oil & gas extraction": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 603
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 86.9
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.9
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.6
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.599999999999994
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 17.1
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.618
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 61.506
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 29.39625
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.226125
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.4120000000000004
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 41.004000000000005
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19.5975
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.15075000000000002
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7.236
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 123.012
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 58.7925
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.45225
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.472
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 246.024
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 117.585
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.9045
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.4120000000000004
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 41.004000000000005
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19.5975
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.15075000000000002
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 84.6
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.4
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.3814
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 346.48380000000003
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 165.598875
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.2738375
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.7386000000000017
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 63.55619999999999
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 30.376125000000002
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.2336625000000001
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 88168
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.8
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.9
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 65.6
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.9
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.7
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 14.6
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.3
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24.12
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 410.04
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 195.975
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5075
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 631.6425
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 3.8186157517899764
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 64.9164677804296
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 31.02625298329355
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.23866348448687352
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.0013866664091100535
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Construction": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 11271
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 87.9
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.1
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.6999999999999944
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 32.6
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 202.878
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1775.1825000000001
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 84.53250000000001
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 135.252
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1183.4550000000002
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 56.35500000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 405.756
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3550.3650000000002
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 169.06500000000003
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 811.512
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7100.7300000000005
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 338.13000000000005
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 67.626
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 591.7275000000001
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 28.177500000000006
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 89
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1202.39028
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10520.91495
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 500.99595000000005
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 150.1297199999999
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1313.6350500000008
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 62.55405000000002
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 64220
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.9
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.9
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 50.6
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 19.3
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 13.2
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.3
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.4
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 21
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1352.52
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11834.550000000001
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 563.5500000000001
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13750.62
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 9.836065573770492
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 86.06557377049181
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.0983606557377055
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.07775680147800702
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Manufacturing": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 14718
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 79.5
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.1
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.0999999999999996
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 17.4
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 706.4279999999999
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4003.092
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 706.4279999999999
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.71725
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 235.476
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1334.3640000000003
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 235.476
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.905750000000001
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1412.8559999999998
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8006.184
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1412.8559999999998
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 29.4345
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 353.21399999999994
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2001.546
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 353.21399999999994
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7.358625
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 117.738
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 667.1820000000001
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 117.738
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.4528750000000006
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 70.8
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 29.2
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1657.7510399999996
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 9393.92256
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1657.7510399999996
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 34.536480000000005
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 697.0089600000001
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3949.7174400000004
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 697.0089600000001
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.52102
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 27246
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.2
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.2
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.1
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 38.6
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 31.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.3
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.3
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 883.0799999999999
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 9419.52
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2943.6000000000004
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 36.795
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13282.995
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 6.648199445983378
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 70.91412742382272
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 22.1606648199446
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.2770083102493075
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.05076854778428299
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Wholesale trade": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 19623
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.7
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.5
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.8
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.9999999999999973
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.6
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2472.498
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3090.6225
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 294.345
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.71725
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1236.249
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1545.31125
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 147.1725
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7.358625
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4944.996
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6181.245
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 588.69
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 29.4345
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 412.083
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 515.1037500000001
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 49.057500000000005
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.4528750000000006
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 824.166
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1030.2075000000002
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 98.11500000000001
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.905750000000001
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 54.7
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 45.3
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5777.40366
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7221.754575
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 687.78615
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 34.3893075
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2464.25634
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3080.320425000001
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 293.36385000000007
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.668192500000004
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 66275
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.5
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.9
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.2
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 79.6
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.8
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.7
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2354.7599999999998
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13343.640000000001
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2354.7599999999998
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 49.057500000000005
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 18102.2175
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 13.008130081300811
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 73.71273712737128
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 13.008130081300811
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.2710027100271003
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.13537589525356505
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Retail trade": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 19623
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.7
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.5
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.8
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.9999999999999973
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.6
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 529.122
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1539.264
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 288.61199999999997
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.01275
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 88.18700000000001
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 256.54400000000004
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.102000000000004
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.0021250000000002
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1058.244
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3078.528
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 577.2239999999999
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12.0255
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 264.561
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 769.632
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 144.30599999999998
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.006375
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 176.37400000000002
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 513.0880000000001
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 96.20400000000001
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.0042500000000003
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 54.7
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 45.3
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 901.2711400000001
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2621.87968
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 491.60244
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10.2417175
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 862.46886
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2509.00032
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 470.43755999999996
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 9.8007825
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 37040
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.8
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.7
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 31.4
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 34.9
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 20.3
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.8
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.6
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.4
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 15
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8241.66
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10302.075
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 981.1500000000001
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 49.057500000000005
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19573.9425
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 42.10526315789473
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 52.63157894736842
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 5.012531328320803
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.25062656641604014
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.4738156333874777
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Transportation & warehousing": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 8017
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 69
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 21.3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.8
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.8999999999999995
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 21.5
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 529.122
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1539.264
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 288.61199999999997
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.01275
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 176.37400000000002
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 513.0880000000001
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 96.20400000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.0042500000000003
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1058.244
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3078.528
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 577.2239999999999
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12.0255
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 264.561
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 769.632
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 144.30599999999998
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.006375
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 88.18700000000001
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 256.54400000000004
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.102000000000004
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.0021250000000002
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 74.9
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 25.1
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1345.73362
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3914.86144
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 734.03652
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 15.2924275
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 418.00638000000004
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1216.01856
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 228.00347999999997
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.7500725
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 51943
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.7
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.2
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 39.8
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 20.7
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 20.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.5
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.2
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1763.74
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5130.88
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 962.04
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.0425
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7876.702499999999
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 22.391857506361326
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 65.13994910941476
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 12.213740458015268
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.2544529262086514
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.10139796900513123
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Utilities": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 1360
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 84.2
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.7
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.6
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.499999999999998
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.8
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.4
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 199.92
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 214.2
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.800000000000001
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 66.64
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 71.4
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10.2
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 99.96
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 107.1
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 40.8
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 399.84
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 428.4
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.4000000000000004
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 33.32
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 35.7
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 76.9
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 23.1
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 50.184
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 491.8032
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 526.932
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17.816000000000003
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 174.59679999999997
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 187.06799999999998
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 82171
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.7
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.2
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 50.1
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.4
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.8
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.1
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.1
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 15
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 68
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 666.4
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 714
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1448.4
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.694835680751173
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 46.009389671361504
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 49.29577464788732
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.003909341451885723
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Information": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 2721
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 75.9
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.6
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.5
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.9999999999999947
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.4
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 97.95599999999999
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 697.9364999999999
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 85.71149999999999
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 40.815000000000005
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.977999999999994
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 348.96824999999995
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 42.85574999999999
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.407500000000002
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 195.91199999999998
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1395.8729999999998
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 171.42299999999997
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 81.63000000000001
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16.326
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 116.32275
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.28525
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.802500000000001
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 32.652
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 232.6455
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 28.5705
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13.605000000000002
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 60.7
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 39.3
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 193.29984
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1377.26136
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 169.13735999999997
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 80.5416
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 133.22016
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 949.19364
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 116.56764000000001
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 55.50840000000001
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 93200
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.5
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.9
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 73.5
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.5
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.5
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.4
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 19.9
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.9
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 326.52
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2326.455
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 285.705
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 136.05
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3074.73
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 10.619469026548673
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 75.66371681415929
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 9.292035398230087
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.424778761061948
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.018771737806907735
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Finance & insurance": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 7497
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 76.7
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.6
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 8.9
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.799999999999997
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.4
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 236.15549999999996
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 674.7299999999999
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1180.7775
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5.62275
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 39.35925
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 112.455
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 196.79625000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.937125
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 472.3109999999999
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1349.4599999999998
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2361.555
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11.2455
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 78.7185
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 224.91
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 393.59250000000003
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.87425
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 118.07774999999998
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 337.36499999999995
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 590.38875
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.811375
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 46.6
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 53.4
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 340.85110499999996
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 973.8602999999999
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1704.255525
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8.1155025
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 446.333895
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1275.2397
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2231.669475
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10.6269975
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 85802
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.3
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.9
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 75.9
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.5
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.6
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.6
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 16.2
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 15
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 787.185
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2249.1
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3935.925
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 18.7425
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6990.9525
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 11.260053619302948
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 32.171581769437
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 56.30026809651475
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.26809651474530827
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.045255513982392095
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Real estate & rental & leasing": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 3229
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 82.4
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.5
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.3
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.7999999999999945
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.3
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 116.24399999999999
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1017.135
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.435
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.42175
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 38.748
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 339.0450000000001
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16.145000000000003
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.80725
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 58.12199999999999
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 508.5675
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24.2175
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.210875
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19.374
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 169.52250000000004
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8.072500000000002
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.403625
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 232.48799999999997
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2034.27
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 96.87
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.8435
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 50.9
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 49.1
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 195.28992
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1708.7868
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 81.3708
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.06854
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 192.19007999999997
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1681.6632000000002
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 80.07920000000001
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.00396
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 84499
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.6
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 59.4
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 19.9
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.8
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.4
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.8
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 21
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 387.47999999999996
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3390.4500000000003
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 161.45000000000002
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8.0725
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3947.4525000000003
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 9.815950920245397
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 85.88957055214725
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.08997955010225
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.20449897750511245
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.022276347437892346
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Professional, scientific, & technical services": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 12877
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.1
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.1
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 13.1
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.7000000000000064
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.9
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 849.882
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 231.786
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2626.908
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 283.29400000000004
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 77.262
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 875.6360000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1699.764
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 463.572
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5253.816
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 424.941
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 115.893
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1313.454
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 141.64700000000002
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 38.631
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 437.81800000000004
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 56.9
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 43.1
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1594.9452199999998
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 434.98506
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4929.83068
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1237.9947800000002
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 337.63494000000003
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3826.5293200000006
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 93521
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.4
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 60.4
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.9
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.7
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.4
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.8
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 16.5
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2832.94
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 772.62
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8756.36
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12361.92
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 22.916666666666664
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 6.25
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 70.83333333333334
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.16286661430448734
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Management of companies & enterprises": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 64
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.9
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.9
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.9
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.299999999999994
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.2
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.576
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.24
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13.056000000000001
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.192
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.08
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.352
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.152
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12.48
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 26.112000000000002
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.096
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.04
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.176
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.288
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.12
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6.5280000000000005
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 48.8
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 51.2
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.9158399999999999
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 9.9216
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.75904
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.0041600000000002
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10.878400000000001
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 22.760960000000004
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 92417
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.4
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.9
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 67.5
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.6
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.9
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 21.2
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.9
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.75
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.92
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20.8
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 43.52
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 66.24000000000001
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 2.8985507246376807
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 31.400966183574873
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 65.70048309178743
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.00011038140570030275
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Administrative & support & waste management services": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 6418
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.4
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.2
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.099999999999993
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 30.2
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 288.80999999999995
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 616.128
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 57.76199999999999
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 96.27
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 205.37600000000003
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19.254
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1155.2399999999998
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2464.512
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 231.04799999999997
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 577.6199999999999
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1232.256
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 115.52399999999999
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 192.54
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 410.75200000000007
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 38.508
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 58.4
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 41.6
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1145.6129999999998
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2443.9744
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 229.12259999999998
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 779.787
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1663.5456000000004
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 155.9574
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 69710
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 22.9
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.7
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 47.8
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 22.9
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.1
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.1
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.2
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.5
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.3
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1925.3999999999999
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4107.52
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 385.08
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6418
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 30
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 64
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 6
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.11069185340383485
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Educational services": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 13521
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 79.8
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.3
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.8
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1000000000000023
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 11.9
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 811.2600000000001
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3468.1365
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 202.81500000000003
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 270.42
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1156.0455
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 67.605
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1622.5200000000002
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6936.273
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 405.63000000000005
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 405.63000000000005
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1734.06825
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 101.40750000000001
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 135.21
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 578.02275
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 33.8025
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 30.900000000000006
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 69.1
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 851.8230000000001
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3641.543325
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 212.95575000000002
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1852.3770000000002
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7918.911674999999
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 463.09425000000005
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 57992
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 8.7
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 21.6
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.4
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 63.9
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.9
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.2
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.4
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15.1
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 19
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2704.2000000000003
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11560.455
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 676.0500000000001
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14940.705
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 18.09954751131222
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 77.37556561085974
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.524886877828055
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.1554653110910202
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Health care & social assistance": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 21204
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 72.3
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 17.1
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.3
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.3000000000000016
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 14.2
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1399.464
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4071.1679999999997
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 667.926
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 699.732
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2035.5839999999998
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 333.963
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2798.928
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 8142.335999999999
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1335.852
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 466.48800000000006
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1357.056
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 222.64200000000002
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 233.24400000000003
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 678.528
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 111.32100000000001
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 22.400000000000006
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 77.6
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1026.2736
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2985.5232
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 489.8124
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3638.6064
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 10585.0368
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1736.6076
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 56152
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 8.7
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 21.6
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.5
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 35.1
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.7
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.5
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.2
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 8.7
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 30.3
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 16
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4664.88
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13570.56
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2226.42
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 20461.86
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 22.797927461139896
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 66.32124352331606
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 10.880829015544041
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.26818542282459806
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Arts, entertainment, & recreation": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 2896
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 79.6
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9.7
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.6
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.100000000000007
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 13.9
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 212.856
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 228.06
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 21.720000000000002
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 141.904
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 152.04000000000002
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.480000000000002
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 851.424
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 912.24
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 86.88000000000001
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 425.712
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 456.12
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 43.440000000000005
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 70.952
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 76.02000000000001
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7.240000000000001
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 54.4
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 45.6
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 759.1864
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 813.4140000000001
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 77.468
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 659.8535999999999
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 706.986
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 67.33200000000001
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 35643
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 9
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.5
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 59.1
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 14.3
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.7
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.3
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.5
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.6
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 15
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1419.04
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1520.4
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 144.8
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3084.2400000000002
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 46.009389671361504
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 49.29577464788733
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 4.694835680751173
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.08158105726299876
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Accommodation & food services": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 9739
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 74.6
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 12.6
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.3
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.500000000000006
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 27.3
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1928.3220000000001
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 73.0425
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 73.0425
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3.652125
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1285.5480000000002
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.69500000000001
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 48.69500000000001
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2.43475
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7713.2880000000005
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 292.17
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 292.17
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 14.6085
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 3856.6440000000002
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 146.085
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 146.085
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7.30425
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 642.7740000000001
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24.347500000000004
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24.347500000000004
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.217375
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 47.5
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 52.5
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6903.3927600000015
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 261.49215000000004
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 261.49215000000004
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13.0746075
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5952.08724
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 225.45785
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 225.45785
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11.2728925
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 34714
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.8
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 44
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 20.8
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 17.4
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.8
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.6
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 1.2
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5.5
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0.25
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 12855.480000000001
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 486.95000000000005
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 486.95000000000005
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 24.3475
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 13853.727500000003
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 92.79437609841827
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 3.5149384885764494
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 3.5149384885764494
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.17574692442882248
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.7390656007042334
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Other services, except public administration": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 7186
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 78.2
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10.5
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 7.7
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.599999999999997
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 19.9
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1465.9440000000002
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 474.276
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 129.34799999999998
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 732.9720000000001
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 237.138
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 64.67399999999999
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 488.6480000000001
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 158.092
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 43.116
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2931.8880000000004
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 948.552
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 258.69599999999997
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 244.32400000000004
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 79.046
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 21.558
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 48.1
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 51.9
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2487.2183200000004
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 804.6882800000001
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 219.46043999999998
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2399.26168
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 776.23172
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 211.69956
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 76020
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.8
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 6.2
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 32.5
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 38.1
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 18.1
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 5.6
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 3.1
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 2.3
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.2
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0.1
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 17
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 2
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 4886.4800000000005
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1580.92
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 431.15999999999997
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6898.56
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 70.83333333333334
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 22.916666666666664
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 6.249999999999999
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.28092527673250806
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    },
+    "Public administration": {
+        "Total 16 years and over": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 152581
+        },
+        "Total Employed": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 7410
+        },
+        "White": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 73.3
+        },
+        "Black or African American": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 16.9
+        },
+        "Asian": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.9
+        },
+        "Native": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.900000000000004
+        },
+        "Hispanic or Latino": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 13
+        },
+        "White in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 66.69
+        },
+        "White in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 11.54475
+        },
+        "White in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 116.70749999999998
+        },
+        "White in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Black or African American in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 33.345
+        },
+        "Black or African American in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5.772375
+        },
+        "Black or African American in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 58.35374999999999
+        },
+        "Black or African American in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Asian in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 266.76
+        },
+        "Asian in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 46.179
+        },
+        "Asian in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 466.8299999999999
+        },
+        "Asian in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Native in Povety Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 133.38
+        },
+        "Native in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 23.0895
+        },
+        "Native in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 233.41499999999996
+        },
+        "Native in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Hispanic or Latino in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 33.345
+        },
+        "Hispanic or Latino in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5.772375
+        },
+        "Hispanic or Latino in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 58.35374999999999
+        },
+        "Hispanic or Latino in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Male": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 53.7
+        },
+        "Female": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 46.3
+        },
+        "Males in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 241.8624
+        },
+        "Males in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 41.86896000000001
+        },
+        "Males in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 423.2592
+        },
+        "Males in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Females in Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 202.73759999999996
+        },
+        "Females in Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 35.096039999999995
+        },
+        "Females in Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 354.79079999999993
+        },
+        "Females in Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Average Income": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 61299
+        },
+        "Veterans ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 22.9
+        },
+        "Disability": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 4.7
+        },
+        "High School Diploma ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Bachelors ": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 60
+        },
+        "Associate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15
+        },
+        "Diploma": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Certificate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Masters": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 15
+        },
+        "Doctorate": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 10
+        },
+        "License": {
+            "type": "Percent",
+            "section_specific": false,
+            "value": 0
+        },
+        "Poverty Line to 30,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 6
+        },
+        "30,000 to 90,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 21
+        },
+        "90,000 to 400,000": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 7
+        },
+        "400,000 to Max": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Weight of Poverty Line/Poor": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1
+        },
+        "Weight of Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 5
+        },
+        "Weight of Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1.5
+        },
+        "Weight of Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Poverty Line/Poor ": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 444.59999999999997
+        },
+        "Middle Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 76.965
+        },
+        "Upper Class": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 778.05
+        },
+        "Top 1%": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 0
+        },
+        "Total": {
+            "type": "Number",
+            "section_specific": true,
+            "value": 1299.6149999999998
+        },
+        "Percentage of Poverty Line/Poor": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 34.210131462009905
+        },
+        "Percentage of Middle Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 5.9221384794727685
+        },
+        "Percentage of Upper Class": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 59.86773005851733
+        },
+        "Percentage of Top 1%": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0
+        },
+        "Below Poverty Line Out of All Elgible": {
+            "type": "Percent",
+            "section_specific": true,
+            "value": 0.025560194257476354
+        },
+        "Current Population Below Poverty Line": {
+            "type": "Number",
+            "section_specific": false,
+            "value": 17394.234
+        }
+    }
+}

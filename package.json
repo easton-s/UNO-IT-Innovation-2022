@@ -1,0 +1,26 @@
+{
+  "name": "csp-led-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "website": "sudo node server/server.js",
+    "websocket": "sudo python3 server/websocket.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "create-react-app": "^5.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
